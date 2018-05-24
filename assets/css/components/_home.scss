@@ -1,11 +1,10 @@
 
-
-.container {
+.container2 {
   width: 90%;
   margin: auto;
 }
 
-.container2 {
+.container3 {
   width: 70%;
   margin: auto;
 }
@@ -44,14 +43,11 @@
     transform: translateY(-20%);
     padding: 50px 30px;
     position: absolute;
-    width: 50%;
+    width: 55%;
     box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.16);
     background: #FFF;
     right: 0;
     text-align: center;
-    @include for-size(tablet-landscape-up){
-      background: #FF0;
-    }
     &-Name{
       font-size: 50px;
       margin-bottom: 20px;
