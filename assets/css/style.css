@@ -71,7 +71,7 @@ table {
 
 /* line 12, components/_home.scss */
 .menu {
-  color: #FFF;
+  color: #1a1a1a;
   font-size: 18px;
   position: relative;
   z-index: 555;
@@ -204,11 +204,6 @@ table {
   line-height: 30px;
 }
 
-/* line 1, components/_Images.scss */
-.Images {
-  height: 100%;
-  display: none;
-}
 /* line 5, components/_Images.scss */
 .Images_return {
   display: flex;
